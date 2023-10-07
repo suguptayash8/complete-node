@@ -1,4 +1,7 @@
 function testCall(arg1, arg2, arg3){
+    
+    console.log(this);
+
     this.name = arg1;
     this.lastName = arg2;
     this.designation = arg3;

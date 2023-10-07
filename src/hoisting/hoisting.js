@@ -1,6 +1,6 @@
 //console.log(b); // cannot acces b before initialization
 //console.log(c); // cannot acces b before initialization
-//console.log(a); // b is undefined
+//console.log(a); // a is undefined
 let b;
 var a;
 const c = 8;
